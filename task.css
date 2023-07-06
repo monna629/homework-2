@@ -1,0 +1,35 @@
+#atom{
+    border: 10px solid blueviolet ;
+    border-radius: 10px 40px 20px;
+    background-color: pink;
+    margin: 5px;
+    padding: 5px;
+    background-image: url(../Hyderabadi-Kacchi-Chicken-Dum-Biryani.jpg);
+    
+}
+.bot{
+    background-image: url('Screenshot\ 2023-07-05\ 141952.png');
+    height: fit-content;
+    width: fit-content;
+   
+}
+.cat{
+    background-image: url("./Screenshot\ 2023-07-05\ 141952.png");
+    height: 400px;
+   /* width: 600px;
+    margin: 300px; */
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    margin: 50px 100px 50px 50px
+    ;
+  
+
+}
+.dol{
+    display: flex;
+    padding: 10px;
+   
+}
+
+

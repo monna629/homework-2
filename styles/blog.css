@@ -1,0 +1,26 @@
+.bb{
+    border: 10px solid blueviolet;
+    margin: 10px;
+    background-color: pink;
+     border-radius: 10px ;
+     box-shadow: 10px 10px 10px black;
+   display: inline-block;
+}
+h2{
+    text-align: center;
+    font-size: larger;
+     text-decoration: overline;
+     
+     
+}
+span{
+    border: 2px black
+}
+.head{
+    font-size: 400px;
+    text-align: center;
+    background-image: url('../styles/nphrgz8yfnjylrwfr0yl.webp');
+    background-position: left;
+    /* background-color: aliceblue; */
+ color: azure;
+}
